@@ -2,6 +2,7 @@ console.log('created on github')
 // comment
 // comment from first branch
 //comment from rebase
+// comment from master
 
 
 if (true) {
