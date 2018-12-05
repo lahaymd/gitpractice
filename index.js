@@ -2,7 +2,7 @@ console.log('created on github')
 // comment
 // comment from first branch
 //comment from rebase
-
+//comment from rebase2
 
 if (true) {
     let a = 2;
