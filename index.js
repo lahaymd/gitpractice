@@ -1,9 +1,6 @@
 console.log('created on github')
 // comment
 // comment from first branch
-<<<<<<< HEAD
-//comment from second branch
-=======
 
 
 if (true) {
@@ -16,4 +13,3 @@ if (true) {
 
 // console.log(a);
 console.log(b);
->>>>>>> firstbranch
