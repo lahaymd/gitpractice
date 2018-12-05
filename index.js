@@ -4,6 +4,7 @@ console.log('created on github')
 //comment from rebase
 // comment from master
 
+//comment from rebase2
 
 if (true) {
     let a = 2;
